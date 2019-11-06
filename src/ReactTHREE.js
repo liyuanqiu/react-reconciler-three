@@ -246,11 +246,9 @@ let reconciler = ReactReconciler({
   }
 });
 
-let ReactDOMMini = {
+export default {
   render(whatToRender, div) {
     let container = reconciler.createContainer(div, false, false);
     reconciler.updateContainer(whatToRender, container, null, null);
   }
 };
-
-export default ReactDOMMini;
