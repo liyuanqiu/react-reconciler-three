@@ -1,21 +1,18 @@
 {
   "files": {
-    "main.css": "/react-reconciler-three/build/static/css/main.34de6062.chunk.css",
-    "main.js": "/react-reconciler-three/build/static/js/main.8cd28ef0.chunk.js",
-    "main.js.map": "/react-reconciler-three/build/static/js/main.8cd28ef0.chunk.js.map",
+    "main.js": "/react-reconciler-three/build/static/js/main.620dc5e7.chunk.js",
+    "main.js.map": "/react-reconciler-three/build/static/js/main.620dc5e7.chunk.js.map",
     "runtime-main.js": "/react-reconciler-three/build/static/js/runtime-main.d1b2ac6a.js",
     "runtime-main.js.map": "/react-reconciler-three/build/static/js/runtime-main.d1b2ac6a.js.map",
     "static/js/2.8e76e459.chunk.js": "/react-reconciler-three/build/static/js/2.8e76e459.chunk.js",
     "static/js/2.8e76e459.chunk.js.map": "/react-reconciler-three/build/static/js/2.8e76e459.chunk.js.map",
     "index.html": "/react-reconciler-three/build/index.html",
-    "precache-manifest.97637bd70a9e18c25cc224e8b6042a06.js": "/react-reconciler-three/build/precache-manifest.97637bd70a9e18c25cc224e8b6042a06.js",
-    "service-worker.js": "/react-reconciler-three/build/service-worker.js",
-    "static/css/main.34de6062.chunk.css.map": "/react-reconciler-three/build/static/css/main.34de6062.chunk.css.map"
+    "precache-manifest.183c1118394b3870f418b9fee0b2a94e.js": "/react-reconciler-three/build/precache-manifest.183c1118394b3870f418b9fee0b2a94e.js",
+    "service-worker.js": "/react-reconciler-three/build/service-worker.js"
   },
   "entrypoints": [
     "static/js/runtime-main.d1b2ac6a.js",
     "static/js/2.8e76e459.chunk.js",
-    "static/css/main.34de6062.chunk.css",
-    "static/js/main.8cd28ef0.chunk.js"
+    "static/js/main.620dc5e7.chunk.js"
   ]
 }
