@@ -6,7 +6,7 @@
     "react": "^16.11.0",
     "react-reconciler": "^0.23.0",
     "react-scripts": "3.2.0",
-    "three": "^0.110.0"
+    "three": "^0.137.0"
   },
   "scripts": {
     "start": "react-scripts start",
